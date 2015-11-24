@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-zabbix"
   spec.version       = "0.1.0"
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
+  spec.authors       = ["Phillip Dudley"]
+  spec.email         = ["Predatorian3@gmail.com"]
+  spec.description   = "A Lita.io Chat Bot Handler for Zabbix"
+  spec.summary       = "A Lita.io Chat Bot Handler for Zabbix"
+  spec.homepage      = "https://github.com/predatorian3/lita-zabbix"
   spec.license       = "TODO: Add a license"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
